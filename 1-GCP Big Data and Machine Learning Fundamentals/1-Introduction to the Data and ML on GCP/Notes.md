@@ -142,8 +142,8 @@
 * Vishal says, "I pitched my team on the value machine learning can add, and I've got buy-in to build a prototype. But now I've got to build a prototype. What are some of the easiest ways I can see whether machine learning is feasible for my data?" Vishal is an applied machine learning engineer, who has a background in building machine learning models in TensorFlow and Keras. His team is growing rapidly, and he's often asked by his leadership, to assess the feasibility of machine learning for a wide variety of projects.
 * He doesn't have the time to train and test all of the ideas with custom models. He wants to empower his data analysts and data engineering teams, by teaching them machine learning. Do these personas sound familiar to your role and your team? 
 * Next, we'll learn more about the Google Cloud Platform, big data and machine learning approaches and solutions, so that we can address each of these challenges.
-## QuizNotes
 
+## Module Resources
 
 The cloud is a constantly changing environment and Google Cloud Platform is continually evolving and releasing new products and features. It's a good idea to bookmark the below links to stay ahead of updates:
 
