@@ -79,9 +79,7 @@
 ## Resources
 
 [Large-Scale Deep Learning For Building Intelligent Computer Systems](https://research.google/pubs/pub44921/)
-
 Stay up to date with the latest resources on migrating your workloads to the cloud:
-
 [Migrating Hadoop to Google Cloud Platform](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/supplement/N74lx/module-resources)
 [Cloud SQL Documentation](https://cloud.google.com/sql/) + [release blog](https://cloud.google.com/blog/products/databases)
 [Cloud Dataproc Documentation](https://cloud.google.com/dataproc/) + [release blog](https://cloud.google.com/blog/products/dataproc)
