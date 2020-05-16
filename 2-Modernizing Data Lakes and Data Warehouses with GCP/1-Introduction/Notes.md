@@ -1,10 +1,4 @@
 ## 1. Course Introduction
 
-* 
-
-## QuizNotes
-
-* 
-
-## Resources
-
+* As part of the Data Engineering learning path in this course, we will first discuss the differences between Data Lakes and Data Warehouses. Next, we talk about the primary role of a data engineer which is to build data pipelines. In the third course of this specialization, we will look at Streaming Systems and performance and the final course of the series, we go over Analytics and Artificial Intelligence as they pertain to Data Engineering. In this course, which is the first course of this specialization, the course on modernizing Data Lakes and Data Warehouses with GCP, we'll start off by describing the role of a data engineer. We'll talk about a data engineer's clients and what the benefits are for a successful data pipeline, what the benefits are for your business. Also, we'll motivate why data engineering should be done in a Cloud environment. We'll concentrate in Data Lakes and Data Warehouses in this course because these are the two key components of any data pipeline. We'll describe the differences between the two and highlight use cases for each type, also we'll go into different available Data Lakes and Data Warehouse solutions on Google Cloud Platform, and we'll go through those solutions in some detail. Finally, you will get hands-on experience by using Data Lakes and Data Warehouses and GCP on Qwiklabs.
+	
