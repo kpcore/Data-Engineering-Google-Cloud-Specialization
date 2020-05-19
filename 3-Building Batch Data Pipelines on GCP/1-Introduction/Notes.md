@@ -1,4 +1,4 @@
 ## 1. Course Introduction
 
-* 
+* This is a second course in our data engineering offering. In this course, we'll be discussing building batch data pipelines. In the previous course, we talked about data lakes and warehouses as storage options for your data. This course concentrates on how to actually build out those pipelines to get that data into storage. We touched upon extract load, extract transform load, and extract load transform for your data pipelines in a previous course. In this course, we're going to dive deeper into how to actually build out those pipelines for batch data. We'll cover several technologies on Google Cloud platform for data transformation, including BigQuery, executing Spark on Cloud data proc, pipeline graphs and Cloud data fusion, and serverless data processing with Cloud Dataflow.
 	
