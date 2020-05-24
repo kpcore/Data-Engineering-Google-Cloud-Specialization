@@ -1,4 +1,4 @@
 ## 1. Course Introduction
 
-* 
+* This is the third course in our Data Engineering offering, and it talks all about building resilient streaming analytics systems. Those systems allow enterprises to take accurate and timely decisions as datapoints are generated in real time. This course discusses what streaming data processing is, how it fits in your overall big data architecture, when streaming data processing makes sense, and what Google Cloud technologies and products you can choose from to build your own resilient streaming analytics solutions. Here's how the course is broken down. We start off with what streaming data is and the challenges associated with processing streaming data. Like variable volumes and latency. Next we look at using Pub/Sub, Dataflow, and BigQuery to help us ingest, process, and derive insights from data as it streams in. We dive into each product and learn about its Streaming capabilities. Then, we'll also look at Bigtable when higher throughput is a requirement. Finally, we review some of BigQuery's advanced analysis capabilities like GIS Functions and ways to improve query performance.
 	
