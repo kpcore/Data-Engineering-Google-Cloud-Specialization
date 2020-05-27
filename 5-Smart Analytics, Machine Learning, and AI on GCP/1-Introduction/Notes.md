@@ -1,4 +1,3 @@
 ## 1. Course Introduction
 
-* 
-	
+* This is the final course in the Data Engineering on Google Cloud platform offering. While data has intrinsic value, that value can be augmented with Machine Learning. This course covers how to integrate Analytics and Machine Learning capabilities into your data pipelines. We'll start off the course by motivating the claim that Machine Learning adds value to your data. Throughout the rest of the course we'll look at the options available on GCP for applying Machine Learning. As you learn the GCP ML solutions cater to a wide range of business ML capabilities. There are solutions for businesses with large Machine Learning teams. There are also solutions for businesses with absolutely no Machine Learning expertise. We'll cover all of these as well as how to productionize ML systems on GCP.
