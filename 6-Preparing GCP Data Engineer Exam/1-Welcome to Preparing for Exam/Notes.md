@@ -39,3 +39,12 @@
 	
 	Study methods
 	Training is great. Digging into the online documentation can be very instructive and covers more detail than can be covered in a class, so documentation tends to have more equal coverage of features, whereas training has to prioritize its time. Getting hands on experience can help you understand a product or technology much better 	than reading and is the kind of experience a professional in the job would have. So labs can be a great way to prepare.
+
+## QuizeNotes
+
+* The Certification Exam is:
+	* Practical, based on the skills required of the job.
+* This course helps you prepare using:
+	* Sample questions, case studies, and top-down concepts that require knowledge of many dependent concepts.
+* The recommended test-taking strategy is:
+	* Bookmark those questions for which you don't know the answer or don't feel confident in your answer, and return to them iteratively.
